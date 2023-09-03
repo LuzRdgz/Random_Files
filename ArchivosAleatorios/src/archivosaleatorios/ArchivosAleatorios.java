@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class ArchivosAleatorios {
-    private static final String archivoCSV = "C:/Users/Hp/Downloads/vendors.csv";
+    private static final String archivoCSV = "vendors.csv";
 
     
     public static void main(String[] args) throws CsvValidationException {
